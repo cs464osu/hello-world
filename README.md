@@ -1,2 +1,2 @@
 # hello-world
-First repository
+CS 464 student
